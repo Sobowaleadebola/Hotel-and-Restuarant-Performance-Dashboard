@@ -2,12 +2,19 @@
 This Power BI dashboard shows insights from a hotel and restaurant business. An hotel business, like any other business, needs to be run efficiently after considering all the factors. This analysis aims to answer the following the following questions. 
 
 •	What type of room drove the highest demand?
+
 •	What type of room generated the highest revenue?
+
 •	What is the purpose for the most demand?
+
 •	What period of the week had the most bookings?
+
 •	What is the most demanded menu?
+
 •	What period of the week and time of the day has the most food orders?
+
 •	Where was the more preferred order destination?
+
 •	What type of room made the highest food order
 
 Data Source
